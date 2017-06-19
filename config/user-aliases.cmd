@@ -20,5 +20,5 @@ cmderr=cd /d "%CMDER_ROOT%"
 gs=git status
 open.=explorer .
 artisan=php artisan $*
-git diff-tree --no-commit-id --name-only -r $*
+gf=git diff-tree --no-commit-id --name-only -r $*
 gfh=git diff-tree --no-commit-id --name-only -r HEAD
