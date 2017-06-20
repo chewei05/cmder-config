@@ -22,3 +22,4 @@ open.=explorer .
 artisan=php artisan $*
 gf=git diff-tree --no-commit-id --name-only -r $*
 gfh=git diff-tree --no-commit-id --name-only -r HEAD
+lr=livereload
